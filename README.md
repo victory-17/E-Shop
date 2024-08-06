@@ -19,11 +19,9 @@ This repository contains the code for a simple E-Commerce web application.
 1. Clone the repository:
    ```bash
    git clone https://github.com/victory-17/E-Shop.git
-
 2. Navigate to the project directory:
    ```bash
    cd E-Shop
-
 3. Open ```index.html``` in your web browser to view the application.
 
 ## Usage
